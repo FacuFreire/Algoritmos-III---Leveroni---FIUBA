@@ -23,8 +23,7 @@ Al tener 3 tests para el mismo comportamiento pero aplicado a cada uno de los co
 
 Para modelar desarrollar un combate se implementó de la siguiente manera:
 
-`
-desarrollarDuranteRondas: numeroDeRondas
+`desarrollarDuranteRondas: numeroDeRondas
 
     |bando1 bando2|
     bando1 := OrquestadorDeCombatesTest listaBandoUno.
