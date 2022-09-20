@@ -10,7 +10,7 @@ Se chequean los puntos de vida de los combatientes. Es decir, si los puntos de v
 
 Mientras que el mensaje noEstaHerido está implementado como se muestra a continuación:
 
-`noEstaHerido (20\*pv = puntosDeVida) ifTrue:[^true] ifFalse:[^false] `
+`noEstaHerido (20*pv = puntosDeVida) ifTrue:[^true] ifFalse:[^false] `
 
 En este mensaje se chequea si los puntos de vida son igual a 20. De esta manera, se comprueba si el combatiente no recibió daño.
 Se podría usar un solo mensaje, por ejemplo, estaHerido. Y para corroborar si no está herido, como devuelve un objeto booleano, se podría negar el resultado y así implementar un solo mensaje.
