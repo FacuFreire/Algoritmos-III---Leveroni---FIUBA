@@ -39,7 +39,9 @@ Para modelar desarrollar un combate se implementó de la siguiente manera:
 
     	].
 
-    ^ 'No ganó nadie'`
+    ^ 'No ganó nadie'
+
+`
 
     El resultado fue modelado a través de un String. Los resultados posibles son: "Ganó el bando 1", "Ganó el bando 2" o "No ganó nadie".
     La opción que consideramos para realizar desarrollar combate durante una cierta cantidad de rondas, es que inicialmente ataca el bando uno. El bando 2 recibe el ataque y luego ataca al bando uno. Está idea fue pensada a partir de los clásicos juegos por turno, donde primero ataca un jugador en su turno y luego le toca al próximo jugador. Quizas una modificación que se podría realizar a esté método es que el turno en el que comienza atacando un bando sea aleatorio y no fijo como está implementado actualmente.
