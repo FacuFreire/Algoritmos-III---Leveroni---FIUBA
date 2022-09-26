@@ -1,4 +1,4 @@
-# **Ejercicio 02 - Codigo Repetido**
+# **TP2 - Codigo Repetido**
 
 | Nombre y apellido:                  | Número de padrón | Correo electrónico  |
 | ----------------------------------- | ---------------- | ------------------- |
