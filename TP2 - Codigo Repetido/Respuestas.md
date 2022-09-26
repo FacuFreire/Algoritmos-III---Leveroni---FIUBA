@@ -8,14 +8,14 @@
 ## Abstracción de los tests 01 y 02
 *En los test 01 y 02 hay código repetido. Cuando lo extrajeron crearon algo nuevo. Eso es algo que estaba en la realidad y no estaba representado en nuestro código, por eso teníamos código repetido. ¿Cuál es esa entidad de la realidad que crearon?*
 
-El ente que creamos y previamente no estaba representado es un cronómetro o algún tipo de herramienta que permita medir la duración de un evento. Esto se debe a que ambos tests tienen en cuenta la duración temporal.
+El ente que creamos y previamente no estaba representado es un cronómetro o algún tipo de herramienta que permita medir la duración de un evento. Esto se debe a que ambos tests tienen en cuenta la duración temporal. Cabe destacar que se hizo uso de un mensaje de la clase *TestCase* de Smalltalk. De esta manera, no se reinventó la rueda y, además, nos ayudó a mantener un conjunto de mensajes de forma minimal.
 
 ## Cómo representar en Smalltalk
 *¿Cuáles son las formas en que podemos representar entes de la realidad en Smalltalk que conocés? Es decir, ¿qué cosas del lenguaje Smalltalk puedo usar para representar entidades de la realidad?*
 
-Las representaciones de entes de la realidad en smalltalk consisten de:
+Las representaciones de entes de la realidad en Smalltalk consisten de:
 - Objetos: Representan a los entes concretos de la realidad.
-- Clases: Representan conceptos o ideas abstractas en Smalltalk
+- Clases: Representan conceptos o ideas abstractas en Smalltalk.
 
 
 ## Teoría de Naur
