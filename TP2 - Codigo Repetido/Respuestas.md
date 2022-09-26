@@ -1,4 +1,4 @@
-# **TP2 - Codigo Repetido**
+# **TP2 - Código Repetido**
 
 | Nombre y apellido:                  | Número de padrón | Correo electrónico  |
 | ----------------------------------- | ---------------- | ------------------- |
