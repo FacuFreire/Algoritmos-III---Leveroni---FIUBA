@@ -1,6 +1,6 @@
 # **Ejercicio 02 - Codigo Repetido**
 
-| Nombre y apellido:                  | Numero de padron | Correo electronico  |
+| Nombre y apellido:                  | Número de padrón | Correo electrónico  |
 | ----------------------------------- | ---------------- | ------------------- |
 | Facundo Freire                      |      96921       | ffreire@fi.uba.ar   |
 | Solana Caul                         |      93125       | scaul@fi.uba.ar     |
