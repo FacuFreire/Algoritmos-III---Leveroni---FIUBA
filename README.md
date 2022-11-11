@@ -7,3 +7,4 @@
 - TP3: Números
 - TP4: Stack
 - TP5: Mars Rover
+- TP6: Servicios Financieros - Parte 1
